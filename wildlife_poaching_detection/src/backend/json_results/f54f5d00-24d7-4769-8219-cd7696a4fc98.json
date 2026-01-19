@@ -1,0 +1,1464 @@
+{
+    "request_id": "f54f5d00-24d7-4769-8219-cd7696a4fc98",
+    "timestamp": "2025-11-09T08:33:25.889739",
+    "video_metadata": {
+        "fps": 24.0,
+        "total_frames": 192,
+        "width": 1280,
+        "height": 720,
+        "duration_seconds": 8.0,
+        "file_size_mb": 11.967792510986328
+    },
+    "processing_parameters": {
+        "extract_audio": true,
+        "sample_fps": 5,
+        "confidence_threshold": 0.3,
+        "zone_type": "unknown",
+        "is_night_time": false,
+        "enable_alerts": true
+    },
+    "phase1_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 8,
+            "timestamp": 8.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 9,
+            "timestamp": 9.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 10,
+            "timestamp": 10.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 11,
+            "timestamp": 11.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 12,
+            "timestamp": 12.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 13,
+            "timestamp": 13.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 14,
+            "timestamp": 14.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 15,
+            "timestamp": 15.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 16,
+            "timestamp": 16.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 17,
+            "timestamp": 17.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 18,
+            "timestamp": 18.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 19,
+            "timestamp": 19.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 20,
+            "timestamp": 20.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 21,
+            "timestamp": 21.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 22,
+            "timestamp": 22.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 23,
+            "timestamp": 23.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 24,
+            "timestamp": 24.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 25,
+            "timestamp": 25.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 26,
+            "timestamp": 26.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 27,
+            "timestamp": 27.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 28,
+            "timestamp": 28.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 29,
+            "timestamp": 29.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 30,
+            "timestamp": 30.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 31,
+            "timestamp": 31.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 32,
+            "timestamp": 32.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 33,
+            "timestamp": 33.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 34,
+            "timestamp": 34.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 35,
+            "timestamp": 35.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 36,
+            "timestamp": 36.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 37,
+            "timestamp": 37.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 38,
+            "timestamp": 38.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 39,
+            "timestamp": 39.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 40,
+            "timestamp": 40.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 41,
+            "timestamp": 41.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 42,
+            "timestamp": 42.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 43,
+            "timestamp": 43.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 44,
+            "timestamp": 44.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 45,
+            "timestamp": 45.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 46,
+            "timestamp": 46.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 47,
+            "timestamp": 47.0,
+            "detections": [],
+            "frame_url": null
+        }
+    ],
+    "phase2_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9589763283729553,
+                    "bbox_xyxy": [
+                        4.4454345703125,
+                        111.7042236328125,
+                        858.305908203125,
+                        669.4476318359375
+                    ],
+                    "center_point": [
+                        431.37567138671875,
+                        390.575927734375
+                    ],
+                    "area": 476235.0506938994
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9556043148040771,
+                    "bbox_xyxy": [
+                        26.17242431640625,
+                        112.134033203125,
+                        881.8306274414062,
+                        669.361572265625
+                    ],
+                    "center_point": [
+                        454.00152587890625,
+                        390.747802734375
+                    ],
+                    "area": 476796.3148059845
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9401118755340576,
+                    "bbox_xyxy": [
+                        62.56005859375,
+                        112.885009765625,
+                        894.81689453125,
+                        668.9761962890625
+                    ],
+                    "center_point": [
+                        478.6884765625,
+                        390.93060302734375
+                    ],
+                    "area": 462810.69138872623
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9449073672294617,
+                    "bbox_xyxy": [
+                        76.21343994140625,
+                        111.9822998046875,
+                        904.68017578125,
+                        668.08935546875
+                    ],
+                    "center_point": [
+                        490.4468078613281,
+                        390.03582763671875
+                    ],
+                    "area": 460716.19718351215
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9444040060043335,
+                    "bbox_xyxy": [
+                        69.2193603515625,
+                        109.72540283203125,
+                        901.208984375,
+                        663.109130859375
+                    ],
+                    "center_point": [
+                        485.21417236328125,
+                        386.4172668457031
+                    ],
+                    "area": 460409.5198221579
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9300036430358887,
+                    "bbox_xyxy": [
+                        52.59600830078125,
+                        102.72442626953125,
+                        891.0413818359375,
+                        665.6183471679688
+                    ],
+                    "center_point": [
+                        471.8186950683594,
+                        384.17138671875
+                    ],
+                    "area": 471955.8037683591
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.924125611782074,
+                    "bbox_xyxy": [
+                        36.8045654296875,
+                        96.544921875,
+                        912.4090576171875,
+                        668.868408203125
+                    ],
+                    "center_point": [
+                        474.6068115234375,
+                        382.7066650390625
+                    ],
+                    "area": 501129.0156133175
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9368179440498352,
+                    "bbox_xyxy": [
+                        17.238525390625,
+                        96.3719482421875,
+                        920.810791015625,
+                        672.04541015625
+                    ],
+                    "center_point": [
+                        469.024658203125,
+                        384.20867919921875
+                    ],
+                    "area": 520162.5742418766
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 8,
+            "timestamp": 8.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9256648421287537,
+                    "bbox_xyxy": [
+                        13.3243408203125,
+                        103.72467041015625,
+                        913.99072265625,
+                        675.829345703125
+                    ],
+                    "center_point": [
+                        463.65753173828125,
+                        389.7770080566406
+                    ],
+                    "area": 515275.44792754203
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 9,
+            "timestamp": 9.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.92574143409729,
+                    "bbox_xyxy": [
+                        20.33941650390625,
+                        103.5701904296875,
+                        924.0806884765625,
+                        677.0919189453125
+                    ],
+                    "center_point": [
+                        472.2100524902344,
+                        390.3310546875
+                    ],
+                    "area": 518315.2564326674
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 10,
+            "timestamp": 10.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.924862265586853,
+                    "bbox_xyxy": [
+                        28.64263916015625,
+                        97.875244140625,
+                        926.8355712890625,
+                        680.5849609375
+                    ],
+                    "center_point": [
+                        477.7391052246094,
+                        389.2301025390625
+                    ],
+                    "area": 523385.74910978973
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 11,
+            "timestamp": 11.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9185672998428345,
+                    "bbox_xyxy": [
+                        34.9219970703125,
+                        98.4461669921875,
+                        923.902099609375,
+                        676.4503173828125
+                    ],
+                    "center_point": [
+                        479.41204833984375,
+                        387.4482421875
+                    ],
+                    "area": 513834.1888822615
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 12,
+            "timestamp": 12.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9519373178482056,
+                    "bbox_xyxy": [
+                        42.8990478515625,
+                        100.46734619140625,
+                        930.361328125,
+                        677.0625610351562
+                    ],
+                    "center_point": [
+                        486.63018798828125,
+                        388.76495361328125
+                    ],
+                    "area": 511706.504159987
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 13,
+            "timestamp": 13.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9471275210380554,
+                    "bbox_xyxy": [
+                        38.81085205078125,
+                        98.13934326171875,
+                        933.1773681640625,
+                        675.6761474609375
+                    ],
+                    "center_point": [
+                        485.9941101074219,
+                        386.9077453613281
+                    ],
+                    "area": 516529.57949885353
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 14,
+            "timestamp": 14.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9473530054092407,
+                    "bbox_xyxy": [
+                        44.38134765625,
+                        96.25970458984375,
+                        949.3525390625,
+                        676.8300170898438
+                    ],
+                    "center_point": [
+                        496.866943359375,
+                        386.54486083984375
+                    ],
+                    "area": 525399.4073982239
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 15,
+            "timestamp": 15.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9186447262763977,
+                    "bbox_xyxy": [
+                        24.28814697265625,
+                        102.9049072265625,
+                        964.8856201171875,
+                        671.2669677734375
+                    ],
+                    "center_point": [
+                        494.5868835449219,
+                        387.0859375
+                    ],
+                    "area": 534599.9179816097
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 16,
+            "timestamp": 16.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9333901405334473,
+                    "bbox_xyxy": [
+                        10.84893798828125,
+                        112.72161865234375,
+                        995.6240844726562,
+                        673.1343994140625
+                    ],
+                    "center_point": [
+                        503.23651123046875,
+                        392.9280090332031
+                    ],
+                    "area": 551880.5782663375
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 17,
+            "timestamp": 17.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9180439114570618,
+                    "bbox_xyxy": [
+                        22.1697998046875,
+                        122.15826416015625,
+                        1050.66552734375,
+                        678.1648559570312
+                    ],
+                    "center_point": [
+                        536.4176635742188,
+                        400.16156005859375
+                    ],
+                    "area": 571850.4041466415
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 18,
+            "timestamp": 18.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9145563244819641,
+                    "bbox_xyxy": [
+                        37.3463134765625,
+                        126.881103515625,
+                        1072.68359375,
+                        679.5460205078125
+                    ],
+                    "center_point": [
+                        555.0149536132812,
+                        403.21356201171875
+                    ],
+                    "area": 572194.5920612365
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 19,
+            "timestamp": 19.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9257789254188538,
+                    "bbox_xyxy": [
+                        66.344482421875,
+                        127.585693359375,
+                        1110.365966796875,
+                        684.474853515625
+                    ],
+                    "center_point": [
+                        588.355224609375,
+                        406.0302734375
+                    ],
+                    "area": 581404.2476186752
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 20,
+            "timestamp": 20.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9206975698471069,
+                    "bbox_xyxy": [
+                        70.733154296875,
+                        126.5343017578125,
+                        1100.320068359375,
+                        682.0902099609375
+                    ],
+                    "center_point": [
+                        585.526611328125,
+                        404.312255859375
+                    ],
+                    "area": 571993.093116045
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 21,
+            "timestamp": 21.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9037392735481262,
+                    "bbox_xyxy": [
+                        69.69143676757812,
+                        126.56439208984375,
+                        1010.607666015625,
+                        689.6072387695312
+                    ],
+                    "center_point": [
+                        540.1495513916016,
+                        408.0858154296875
+                    ],
+                    "area": 529776.1522029378
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 22,
+            "timestamp": 22.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9048286080360413,
+                    "bbox_xyxy": [
+                        55.4576416015625,
+                        121.50384521484375,
+                        1111.96923828125,
+                        689.7982177734375
+                    ],
+                    "center_point": [
+                        583.7134399414062,
+                        405.6510314941406
+                    ],
+                    "area": 600409.5949359611
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 23,
+            "timestamp": 23.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9226179122924805,
+                    "bbox_xyxy": [
+                        27.578857421875,
+                        122.446533203125,
+                        1108.938720703125,
+                        688.4707641601562
+                    ],
+                    "center_point": [
+                        568.2587890625,
+                        405.4586486816406
+                    ],
+                    "area": 612075.88500157
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 24,
+            "timestamp": 24.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8980515599250793,
+                    "bbox_xyxy": [
+                        12.336639404296875,
+                        121.16796875,
+                        1030.974365234375,
+                        688.842529296875
+                    ],
+                    "center_point": [
+                        521.6555023193359,
+                        405.0052490234375
+                    ],
+                    "area": 578254.7233670577
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 25,
+            "timestamp": 25.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9088009595870972,
+                    "bbox_xyxy": [
+                        15.487457275390625,
+                        123.62835693359375,
+                        1018.9625244140625,
+                        688.0453491210938
+                    ],
+                    "center_point": [
+                        517.2249908447266,
+                        405.83685302734375
+                    ],
+                    "area": 566378.3791295588
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 26,
+            "timestamp": 26.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8657903671264648,
+                    "bbox_xyxy": [
+                        14.5924072265625,
+                        127.33258056640625,
+                        1045.204345703125,
+                        690.4017944335938
+                    ],
+                    "center_point": [
+                        529.8983764648438,
+                        408.8671875
+                    ],
+                    "area": 580305.8540001363
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 27,
+            "timestamp": 27.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9022774696350098,
+                    "bbox_xyxy": [
+                        44.481353759765625,
+                        126.147705078125,
+                        1005.5604248046875,
+                        685.1322021484375
+                    ],
+                    "center_point": [
+                        525.0208892822266,
+                        405.63995361328125
+                    ],
+                    "area": 537228.3011728488
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 28,
+            "timestamp": 28.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9054227471351624,
+                    "bbox_xyxy": [
+                        63.90460205078125,
+                        119.13177490234375,
+                        1004.4249877929688,
+                        696.0423583984375
+                    ],
+                    "center_point": [
+                        534.164794921875,
+                        407.5870666503906
+                    ],
+                    "area": 542596.1645284966
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 29,
+            "timestamp": 29.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9078492522239685,
+                    "bbox_xyxy": [
+                        86.91058349609375,
+                        116.583251953125,
+                        1010.7672729492188,
+                        692.103759765625
+                    ],
+                    "center_point": [
+                        548.8389282226562,
+                        404.343505859375
+                    ],
+                    "area": 531698.4710600376
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 30,
+            "timestamp": 30.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9023505449295044,
+                    "bbox_xyxy": [
+                        90.8922119140625,
+                        114.7569580078125,
+                        1002.018310546875,
+                        691.926025390625
+                    ],
+                    "center_point": [
+                        546.4552612304688,
+                        403.34149169921875
+                    ],
+                    "area": 525873.8006160408
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 31,
+            "timestamp": 31.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8581919074058533,
+                    "bbox_xyxy": [
+                        90.55294799804688,
+                        111.5167236328125,
+                        999.510009765625,
+                        679.4853515625
+                    ],
+                    "center_point": [
+                        545.0314788818359,
+                        395.50103759765625
+                    ],
+                    "area": 516259.09521913156
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 32,
+            "timestamp": 32.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9025424122810364,
+                    "bbox_xyxy": [
+                        69.46563720703125,
+                        108.29937744140625,
+                        984.2584838867188,
+                        687.0391235351562
+                    ],
+                    "center_point": [
+                        526.862060546875,
+                        397.66925048828125
+                    ],
+                    "area": 529426.9798157811
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 33,
+            "timestamp": 33.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8814578652381897,
+                    "bbox_xyxy": [
+                        78.640380859375,
+                        101.3565673828125,
+                        1000.0050048828125,
+                        686.9305419921875
+                    ],
+                    "center_point": [
+                        539.3226928710938,
+                        394.1435546875
+                    ],
+                    "area": 539527.1449538767
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 34,
+            "timestamp": 34.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8715543746948242,
+                    "bbox_xyxy": [
+                        47.807891845703125,
+                        79.304443359375,
+                        1006.387939453125,
+                        674.166748046875
+                    ],
+                    "center_point": [
+                        527.0979156494141,
+                        376.735595703125
+                    ],
+                    "area": 570223.1363472044
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 35,
+            "timestamp": 35.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8437740802764893,
+                    "bbox_xyxy": [
+                        83.92147827148438,
+                        86.37835693359375,
+                        1012.7320556640625,
+                        672.3148803710938
+                    ],
+                    "center_point": [
+                        548.3267669677734,
+                        379.34661865234375
+                    ],
+                    "area": 544224.0406493843
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 36,
+            "timestamp": 36.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8834092020988464,
+                    "bbox_xyxy": [
+                        60.7396240234375,
+                        79.6962890625,
+                        1028.5704345703125,
+                        673.1478271484375
+                    ],
+                    "center_point": [
+                        544.655029296875,
+                        376.42205810546875
+                    ],
+                    "area": 574360.6831260026
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 37,
+            "timestamp": 37.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8805879950523376,
+                    "bbox_xyxy": [
+                        59.5931396484375,
+                        114.0972900390625,
+                        1026.7481689453125,
+                        677.3660888671875
+                    ],
+                    "center_point": [
+                        543.170654296875,
+                        395.731689453125
+                    ],
+                    "area": 544768.2516326308
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 38,
+            "timestamp": 38.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8917227387428284,
+                    "bbox_xyxy": [
+                        94.84640502929688,
+                        124.40216064453125,
+                        1035.559814453125,
+                        676.9483642578125
+                    ],
+                    "center_point": [
+                        565.2031097412109,
+                        400.6752624511719
+                    ],
+                    "area": 519787.62306524254
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 39,
+            "timestamp": 39.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9144684076309204,
+                    "bbox_xyxy": [
+                        137.1912841796875,
+                        132.3890380859375,
+                        1039.304931640625,
+                        692.4588623046875
+                    ],
+                    "center_point": [
+                        588.2481079101562,
+                        412.4239501953125
+                    ],
+                    "area": 505246.6319587827
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 40,
+            "timestamp": 40.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.912595808506012,
+                    "bbox_xyxy": [
+                        166.33447265625,
+                        133.441162109375,
+                        1045.94580078125,
+                        682.276611328125
+                    ],
+                    "center_point": [
+                        606.14013671875,
+                        407.85888671875
+                    ],
+                    "area": 482761.8784093857
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 41,
+            "timestamp": 41.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9293900728225708,
+                    "bbox_xyxy": [
+                        184.10400390625,
+                        130.79132080078125,
+                        1052.6058349609375,
+                        670.3331909179688
+                    ],
+                    "center_point": [
+                        618.3549194335938,
+                        400.562255859375
+                    ],
+                    "area": 468593.1021274477
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 42,
+            "timestamp": 42.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9241880178451538,
+                    "bbox_xyxy": [
+                        161.745849609375,
+                        132.57891845703125,
+                        1050.46826171875,
+                        672.5054321289062
+                    ],
+                    "center_point": [
+                        606.1070556640625,
+                        402.54217529296875
+                    ],
+                    "area": 479844.7935922742
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 43,
+            "timestamp": 43.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9288231730461121,
+                    "bbox_xyxy": [
+                        156.17575073242188,
+                        129.96588134765625,
+                        1058.773193359375,
+                        673.432861328125
+                    ],
+                    "center_point": [
+                        607.4744720458984,
+                        401.6993713378906
+                    ],
+                    "area": 490531.9062825646
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 44,
+            "timestamp": 44.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9336099624633789,
+                    "bbox_xyxy": [
+                        130.956298828125,
+                        127.7015380859375,
+                        1062.600341796875,
+                        675.5693359375
+                    ],
+                    "center_point": [
+                        596.7783203125,
+                        401.63543701171875
+                    ],
+                    "area": 510417.77020281553
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 45,
+            "timestamp": 45.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.9195244312286377,
+                    "bbox_xyxy": [
+                        117.2462158203125,
+                        127.40936279296875,
+                        1083.9803466796875,
+                        675.1914672851562
+                    ],
+                    "center_point": [
+                        600.61328125,
+                        401.3004150390625
+                    ],
+                    "area": 529559.6566865742
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 46,
+            "timestamp": 46.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8942907452583313,
+                    "bbox_xyxy": [
+                        122.25674438476562,
+                        128.9434814453125,
+                        1092.9012451171875,
+                        681.6251220703125
+                    ],
+                    "center_point": [
+                        607.5789947509766,
+                        405.2843017578125
+                    ],
+                    "area": 536457.3951284289
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 47,
+            "timestamp": 47.0,
+            "detections": [
+                {
+                    "label": "elephant",
+                    "confidence": 0.8784949779510498,
+                    "bbox_xyxy": [
+                        166.156982421875,
+                        129.232177734375,
+                        1076.793701171875,
+                        684.6751708984375
+                    ],
+                    "center_point": [
+                        621.475341796875,
+                        406.95367431640625
+                    ],
+                    "area": 505806.78474760056
+                }
+            ],
+            "frame_url": null
+        }
+    ],
+    "audio_segments": [
+        {
+            "start_time": 0.0,
+            "end_time": 10.0,
+            "label": "NATURAL",
+            "confidence": 0.85
+        }
+    ],
+    "threat_alerts": [],
+    "gan_prediction": {
+        "operation_type": "subsistence",
+        "escalation_pattern": "RAPID_ESCALATION",
+        "risk_assessment": "MEDIUM - Standard monitoring (Moderate confidence: 0.50)",
+        "intervention_points": [],
+        "temporal_evolution": [
+            {
+                "weapon_detector_max_conf": 0.0,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 150.0,
+                "crossmodal_agreement_score": 0.5
+            },
+            {
+                "weapon_detector_max_conf": 0.1,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 130.0,
+                "crossmodal_agreement_score": 0.55
+            },
+            {
+                "weapon_detector_max_conf": 0.22,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 105.0,
+                "crossmodal_agreement_score": 0.6000000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.36,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 75.0,
+                "crossmodal_agreement_score": 0.6500000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.52,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 40.0,
+                "crossmodal_agreement_score": 0.7000000000000002
+            }
+        ],
+        "confidence": 0.504168689250946,
+        "pattern_description": "Survival-driven, limited resources",
+        "recommended_action": "STANDARD MONITORING - Continue observation, assess escalation",
+        "threat_timeline": "5 step progression",
+        "model_version": "Real_Enhanced_GAN_v2.0"
+    },
+    "summary_statistics": {
+        "total_frames_processed": 48,
+        "animal_statistics": {
+            "total_detections": 0,
+            "unique_species": 0,
+            "species_list": [],
+            "avg_confidence": 0.0
+        },
+        "human_statistics": {
+            "total_detections": 0,
+            "frames_with_humans": 0,
+            "avg_confidence": 0.0
+        },
+        "audio_statistics": {
+            "total_segments": 1,
+            "threat_segments": 0,
+            "threat_percentage": 0.0
+        }
+    },
+    "processing_time": 3.9769606590270996,
+    "frames_processed": 48,
+    "total_frames": 192,
+    "success": true,
+    "errors": []
+}

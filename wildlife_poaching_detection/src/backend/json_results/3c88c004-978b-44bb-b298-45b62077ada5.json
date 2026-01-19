@@ -1,0 +1,1716 @@
+{
+    "request_id": "3c88c004-978b-44bb-b298-45b62077ada5",
+    "timestamp": "2025-11-09T01:34:49.866258",
+    "video_metadata": {
+        "fps": 24.0,
+        "total_frames": 192,
+        "width": 1280,
+        "height": 720,
+        "duration_seconds": 8.0,
+        "file_size_mb": 1.9801311492919922
+    },
+    "processing_parameters": {
+        "extract_audio": true,
+        "sample_fps": 5,
+        "confidence_threshold": 0.3,
+        "zone_type": "unknown",
+        "is_night_time": false,
+        "enable_alerts": true
+    },
+    "phase1_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 8,
+            "timestamp": 8.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 9,
+            "timestamp": 9.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 10,
+            "timestamp": 10.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 11,
+            "timestamp": 11.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 12,
+            "timestamp": 12.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 13,
+            "timestamp": 13.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 14,
+            "timestamp": 14.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 15,
+            "timestamp": 15.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 16,
+            "timestamp": 16.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 17,
+            "timestamp": 17.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 18,
+            "timestamp": 18.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 19,
+            "timestamp": 19.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 20,
+            "timestamp": 20.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 21,
+            "timestamp": 21.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 22,
+            "timestamp": 22.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 23,
+            "timestamp": 23.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 24,
+            "timestamp": 24.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 25,
+            "timestamp": 25.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 26,
+            "timestamp": 26.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 27,
+            "timestamp": 27.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 28,
+            "timestamp": 28.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 29,
+            "timestamp": 29.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 30,
+            "timestamp": 30.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 31,
+            "timestamp": 31.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 32,
+            "timestamp": 32.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 33,
+            "timestamp": 33.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 34,
+            "timestamp": 34.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 35,
+            "timestamp": 35.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 36,
+            "timestamp": 36.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 37,
+            "timestamp": 37.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 38,
+            "timestamp": 38.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 39,
+            "timestamp": 39.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 40,
+            "timestamp": 40.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 41,
+            "timestamp": 41.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 42,
+            "timestamp": 42.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 43,
+            "timestamp": 43.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 44,
+            "timestamp": 44.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 45,
+            "timestamp": 45.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 46,
+            "timestamp": 46.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 47,
+            "timestamp": 47.0,
+            "detections": [],
+            "frame_url": null
+        }
+    ],
+    "phase2_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.30747711658477783,
+                    "bbox_xyxy": [
+                        940.1923828125,
+                        352.609619140625,
+                        1054.378173828125,
+                        452.59521484375
+                    ],
+                    "center_point": [
+                        997.2852783203125,
+                        402.6024169921875
+                    ],
+                    "area": 11416.934335529804
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.7076573371887207,
+                    "bbox_xyxy": [
+                        918.616943359375,
+                        346.60015869140625,
+                        1115.351318359375,
+                        487.52740478515625
+                    ],
+                    "center_point": [
+                        1016.984130859375,
+                        417.06378173828125
+                    ],
+                    "area": 27725.233680725098
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8106815814971924,
+                    "bbox_xyxy": [
+                        909.091796875,
+                        349.96319580078125,
+                        1110.6103515625,
+                        487.22991943359375
+                    ],
+                    "center_point": [
+                        1009.85107421875,
+                        418.5965576171875
+                    ],
+                    "area": 27661.791753172874
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.7693585157394409,
+                    "bbox_xyxy": [
+                        894.732177734375,
+                        351.8194580078125,
+                        1067.51904296875,
+                        489.672607421875
+                    ],
+                    "center_point": [
+                        981.1256103515625,
+                        420.74603271484375
+                    ],
+                    "area": 23819.21354994178
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8548490405082703,
+                    "bbox_xyxy": [
+                        884.6046142578125,
+                        349.5169677734375,
+                        1061.03662109375,
+                        497.500732421875
+                    ],
+                    "center_point": [
+                        972.8206176757812,
+                        423.50885009765625
+                    ],
+                    "area": 26109.07257606089
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 8,
+            "timestamp": 8.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8423712253570557,
+                    "bbox_xyxy": [
+                        878.0537109375,
+                        347.6968994140625,
+                        1061.521728515625,
+                        499.2818603515625
+                    ],
+                    "center_point": [
+                        969.7877197265625,
+                        423.4893798828125
+                    ],
+                    "area": 27810.99227786064
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 9,
+            "timestamp": 9.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8740494251251221,
+                    "bbox_xyxy": [
+                        869.4027099609375,
+                        347.95379638671875,
+                        1053.0821533203125,
+                        513.3683471679688
+                    ],
+                    "center_point": [
+                        961.242431640625,
+                        430.66107177734375
+                    ],
+                    "area": 30383.25261104107
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 10,
+            "timestamp": 10.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8543883562088013,
+                    "bbox_xyxy": [
+                        863.667236328125,
+                        351.0762939453125,
+                        1045.599365234375,
+                        494.077392578125
+                    ],
+                    "center_point": [
+                        954.63330078125,
+                        422.57684326171875
+                    ],
+                    "area": 26016.494310200214
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 11,
+            "timestamp": 11.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8672142624855042,
+                    "bbox_xyxy": [
+                        852.4420166015625,
+                        354.08709716796875,
+                        1037.7164306640625,
+                        522.5765991210938
+                    ],
+                    "center_point": [
+                        945.0792236328125,
+                        438.33184814453125
+                    ],
+                    "area": 31216.793750047684
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 12,
+            "timestamp": 12.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8681797385215759,
+                    "bbox_xyxy": [
+                        824.589599609375,
+                        353.828857421875,
+                        1024.045166015625,
+                        538.6011352539062
+                    ],
+                    "center_point": [
+                        924.3173828125,
+                        446.2149963378906
+                    ],
+                    "area": 36853.859331160784
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 13,
+            "timestamp": 13.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8696674704551697,
+                    "bbox_xyxy": [
+                        817.792724609375,
+                        356.7210693359375,
+                        1011.47119140625,
+                        554.843017578125
+                    ],
+                    "center_point": [
+                        914.6319580078125,
+                        455.78204345703125
+                    ],
+                    "area": 38371.9551743567
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 14,
+            "timestamp": 14.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8748152852058411,
+                    "bbox_xyxy": [
+                        816.6695556640625,
+                        357.06927490234375,
+                        1011.2293701171875,
+                        555.4551391601562
+                    ],
+                    "center_point": [
+                        913.949462890625,
+                        456.26220703125
+                    ],
+                    "area": 38597.91694012284
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 15,
+            "timestamp": 15.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8182563781738281,
+                    "bbox_xyxy": [
+                        793.4967041015625,
+                        354.917236328125,
+                        992.6937255859375,
+                        554.2664794921875
+                    ],
+                    "center_point": [
+                        893.09521484375,
+                        454.59185791015625
+                    ],
+                    "area": 39709.775473445654
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 16,
+            "timestamp": 16.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.9067994952201843,
+                    "bbox_xyxy": [
+                        795.0855102539062,
+                        357.46490478515625,
+                        983.3717651367188,
+                        554.8065185546875
+                    ],
+                    "center_point": [
+                        889.2286376953125,
+                        456.1357116699219
+                    ],
+                    "area": 37156.7133891955
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 17,
+            "timestamp": 17.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8868496417999268,
+                    "bbox_xyxy": [
+                        786.566162109375,
+                        362.01373291015625,
+                        979.958740234375,
+                        566.415283203125
+                    ],
+                    "center_point": [
+                        883.262451171875,
+                        464.2145080566406
+                    ],
+                    "area": 39529.742783904076
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 18,
+            "timestamp": 18.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8716883063316345,
+                    "bbox_xyxy": [
+                        781.8133544921875,
+                        362.594970703125,
+                        969.83642578125,
+                        579.4970092773438
+                    ],
+                    "center_point": [
+                        875.8248901367188,
+                        471.0459899902344
+                    ],
+                    "area": 40782.587461583316
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.5786088705062866,
+                    "bbox_xyxy": [
+                        142.5657501220703,
+                        231.2153778076172,
+                        378.95587158203125,
+                        621.9885864257812
+                    ],
+                    "center_point": [
+                        260.7608108520508,
+                        426.6019821166992
+                    ],
+                    "area": 92374.92624854646
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 19,
+            "timestamp": 19.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8813847899436951,
+                    "bbox_xyxy": [
+                        770.461181640625,
+                        363.6590576171875,
+                        954.80810546875,
+                        585.3524169921875
+                    ],
+                    "center_point": [
+                        862.6346435546875,
+                        474.5057373046875
+                    ],
+                    "area": 40868.488833904266
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.6046029925346375,
+                    "bbox_xyxy": [
+                        139.91395568847656,
+                        237.66607666015625,
+                        446.133056640625,
+                        641.9453735351562
+                    ],
+                    "center_point": [
+                        293.0235061645508,
+                        439.80572509765625
+                    ],
+                    "area": 123798.04282262921
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 20,
+            "timestamp": 20.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8831450343132019,
+                    "bbox_xyxy": [
+                        765.8590087890625,
+                        364.17547607421875,
+                        945.2794189453125,
+                        585.9580078125
+                    ],
+                    "center_point": [
+                        855.5692138671875,
+                        475.0667419433594
+                    ],
+                    "area": 39792.312809973955
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.7301934361457825,
+                    "bbox_xyxy": [
+                        146.8231201171875,
+                        235.77947998046875,
+                        475.99041748046875,
+                        709.1848754882812
+                    ],
+                    "center_point": [
+                        311.4067687988281,
+                        472.482177734375
+                    ],
+                    "area": 155829.5745965019
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 21,
+            "timestamp": 21.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.9151857495307922,
+                    "bbox_xyxy": [
+                        755.842041015625,
+                        365.822509765625,
+                        929.03271484375,
+                        586.1807861328125
+                    ],
+                    "center_point": [
+                        842.4373779296875,
+                        476.00164794921875
+                    ],
+                    "area": 38163.998367637396
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.7999987006187439,
+                    "bbox_xyxy": [
+                        151.2850341796875,
+                        236.72308349609375,
+                        502.3363037109375,
+                        710.7002563476562
+                    ],
+                    "center_point": [
+                        326.8106689453125,
+                        473.711669921875
+                    ],
+                    "area": 166390.28825837374
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 22,
+            "timestamp": 22.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8691254258155823,
+                    "bbox_xyxy": [
+                        752.29345703125,
+                        367.53863525390625,
+                        923.381103515625,
+                        586.2250366210938
+                    ],
+                    "center_point": [
+                        837.8372802734375,
+                        476.8818359375
+                    ],
+                    "area": 37414.54172804952
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.6543185114860535,
+                    "bbox_xyxy": [
+                        150.67449951171875,
+                        236.34393310546875,
+                        478.97515869140625,
+                        710.3536987304688
+                    ],
+                    "center_point": [
+                        314.8248291015625,
+                        473.34881591796875
+                    ],
+                    "area": 155617.71851229668
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 23,
+            "timestamp": 23.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.6609504818916321,
+                    "bbox_xyxy": [
+                        149.6624755859375,
+                        234.61517333984375,
+                        479.95947265625,
+                        703.576171875
+                    ],
+                    "center_point": [
+                        314.81097412109375,
+                        469.0956726074219
+                    ],
+                    "area": 154896.40955925733
+                },
+                {
+                    "label": "zebra",
+                    "confidence": 0.5743592977523804,
+                    "bbox_xyxy": [
+                        744.4925537109375,
+                        369.04376220703125,
+                        918.9693603515625,
+                        593.9119873046875
+                    ],
+                    "center_point": [
+                        831.73095703125,
+                        481.4778747558594
+                    ],
+                    "area": 39234.28982998431
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 24,
+            "timestamp": 24.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.6307129263877869,
+                    "bbox_xyxy": [
+                        741.1773071289062,
+                        369.7025146484375,
+                        917.8989868164062,
+                        598.390380859375
+                    ],
+                    "center_point": [
+                        829.5381469726562,
+                        484.04644775390625
+                    ],
+                    "area": 40414.10384094715
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.4138926863670349,
+                    "bbox_xyxy": [
+                        161.8048095703125,
+                        241.564208984375,
+                        436.26019287109375,
+                        620.6407470703125
+                    ],
+                    "center_point": [
+                        299.0325012207031,
+                        431.10247802734375
+                    ],
+                    "area": 104039.59656070918
+                },
+                {
+                    "label": "frisbee",
+                    "confidence": 0.36916476488113403,
+                    "bbox_xyxy": [
+                        450.02008056640625,
+                        288.09564208984375,
+                        593.8798217773438,
+                        399.25494384765625
+                    ],
+                    "center_point": [
+                        521.949951171875,
+                        343.67529296875
+                    ],
+                    "area": 15991.348384067416
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 25,
+            "timestamp": 25.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.5703288912773132,
+                    "bbox_xyxy": [
+                        157.74386596679688,
+                        222.50555419921875,
+                        446.2878723144531,
+                        696.6959228515625
+                    ],
+                    "center_point": [
+                        302.015869140625,
+                        459.6007385253906
+                    ],
+                    "area": 136824.78874241933
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 26,
+            "timestamp": 26.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.73182612657547,
+                    "bbox_xyxy": [
+                        148.98338317871094,
+                        216.33860778808594,
+                        439.5908203125,
+                        705.7001953125
+                    ],
+                    "center_point": [
+                        294.28710174560547,
+                        461.01940155029297
+                    ],
+                    "area": 142212.11678219237
+                },
+                {
+                    "label": "cow",
+                    "confidence": 0.44995608925819397,
+                    "bbox_xyxy": [
+                        723.61962890625,
+                        376.25616455078125,
+                        921.1396484375,
+                        588.6304321289062
+                    ],
+                    "center_point": [
+                        822.379638671875,
+                        482.44329833984375
+                    ],
+                    "area": 41948.16947996616
+                },
+                {
+                    "label": "dog",
+                    "confidence": 0.3155200481414795,
+                    "bbox_xyxy": [
+                        723.4493408203125,
+                        375.88916015625,
+                        921.1453857421875,
+                        589.1192016601562
+                    ],
+                    "center_point": [
+                        822.29736328125,
+                        482.5041809082031
+                    ],
+                    "area": 42154.73586384952
+                },
+                {
+                    "label": "cell phone",
+                    "confidence": 0.3128646910190582,
+                    "bbox_xyxy": [
+                        332.11761474609375,
+                        317.822509765625,
+                        422.19451904296875,
+                        353.8236083984375
+                    ],
+                    "center_point": [
+                        377.15606689453125,
+                        335.82305908203125
+                    ],
+                    "area": 3242.867516130209
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 27,
+            "timestamp": 27.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.7661994099617004,
+                    "bbox_xyxy": [
+                        154.34918212890625,
+                        202.9310302734375,
+                        446.26483154296875,
+                        706.3536987304688
+                    ],
+                    "center_point": [
+                        300.3070068359375,
+                        454.6423645019531
+                    ],
+                    "area": 146956.95519239455
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.319469153881073,
+                    "bbox_xyxy": [
+                        666.1805419921875,
+                        400.40509033203125,
+                        899.1353759765625,
+                        623.2677612304688
+                    ],
+                    "center_point": [
+                        782.657958984375,
+                        511.83642578125
+                    ],
+                    "area": 51916.93650045991
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 28,
+            "timestamp": 28.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.8631874322891235,
+                    "bbox_xyxy": [
+                        149.4913330078125,
+                        187.46795654296875,
+                        436.56134033203125,
+                        705.3304443359375
+                    ],
+                    "center_point": [
+                        293.0263366699219,
+                        446.3992004394531
+                    ],
+                    "area": 148662.78816366568
+                },
+                {
+                    "label": "bear",
+                    "confidence": 0.34002426266670227,
+                    "bbox_xyxy": [
+                        720.597412109375,
+                        315.2236328125,
+                        895.34716796875,
+                        642.875244140625
+                    ],
+                    "center_point": [
+                        807.9722900390625,
+                        479.0494384765625
+                    ],
+                    "area": 57257.03908652067
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 29,
+            "timestamp": 29.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.8396661877632141,
+                    "bbox_xyxy": [
+                        151.1644287109375,
+                        175.193115234375,
+                        421.59185791015625,
+                        705.648681640625
+                    ],
+                    "center_point": [
+                        286.3781433105469,
+                        440.4208984375
+                    ],
+                    "area": 143449.73512765765
+                },
+                {
+                    "label": "bird",
+                    "confidence": 0.7311071753501892,
+                    "bbox_xyxy": [
+                        653.772705078125,
+                        327.13140869140625,
+                        902.99951171875,
+                        638.9600219726562
+                    ],
+                    "center_point": [
+                        778.3861083984375,
+                        483.04571533203125
+                    ],
+                    "area": 77716.04950726032
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 30,
+            "timestamp": 30.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.8317641019821167,
+                    "bbox_xyxy": [
+                        151.361572265625,
+                        161.31488037109375,
+                        385.55499267578125,
+                        708.318603515625
+                    ],
+                    "center_point": [
+                        268.4582824707031,
+                        434.8167419433594
+                    ],
+                    "area": 128104.67290030792
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 31,
+            "timestamp": 31.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.8239399790763855,
+                    "bbox_xyxy": [
+                        150.0771484375,
+                        150.06005859375,
+                        365.70086669921875,
+                        700.4464721679688
+                    ],
+                    "center_point": [
+                        257.8890075683594,
+                        425.2532653808594
+                    ],
+                    "area": 118676.36497560516
+                },
+                {
+                    "label": "zebra",
+                    "confidence": 0.3918413817882538,
+                    "bbox_xyxy": [
+                        587.5921630859375,
+                        482.6761474609375,
+                        950.8026123046875,
+                        633.9033203125
+                    ],
+                    "center_point": [
+                        769.1973876953125,
+                        558.2897338867188
+                    ],
+                    "area": 54927.28938549757
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 32,
+            "timestamp": 32.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.7649657130241394,
+                    "bbox_xyxy": [
+                        146.90576171875,
+                        146.1419677734375,
+                        349.5846862792969,
+                        693.283447265625
+                    ],
+                    "center_point": [
+                        248.24522399902344,
+                        419.71270751953125
+                    ],
+                    "area": 110894.04664594308
+                },
+                {
+                    "label": "zebra",
+                    "confidence": 0.6675748825073242,
+                    "bbox_xyxy": [
+                        553.08203125,
+                        481.97857666015625,
+                        961.92431640625,
+                        618.0281372070312
+                    ],
+                    "center_point": [
+                        757.503173828125,
+                        550.0033569335938
+                    ],
+                    "area": 55622.81322848797
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 33,
+            "timestamp": 33.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.6616485714912415,
+                    "bbox_xyxy": [
+                        146.27877807617188,
+                        145.935791015625,
+                        331.5589904785156,
+                        702.890625
+                    ],
+                    "center_point": [
+                        238.91888427734375,
+                        424.4132080078125
+                    ],
+                    "area": 103192.7099391371
+                },
+                {
+                    "label": "zebra",
+                    "confidence": 0.5967037677764893,
+                    "bbox_xyxy": [
+                        570.362060546875,
+                        480.81976318359375,
+                        966.9676513671875,
+                        600.0798950195312
+                    ],
+                    "center_point": [
+                        768.6648559570312,
+                        540.4498291015625
+                    ],
+                    "area": 47299.23504810035
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 34,
+            "timestamp": 34.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.66180419921875,
+                    "bbox_xyxy": [
+                        559.6717529296875,
+                        473.76824951171875,
+                        972.37890625,
+                        575.4907836914062
+                    ],
+                    "center_point": [
+                        766.0253295898438,
+                        524.6295166015625
+                    ],
+                    "area": 41981.61750982702
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.5731255412101746,
+                    "bbox_xyxy": [
+                        149.33779907226562,
+                        152.7186279296875,
+                        328.101806640625,
+                        705.853271484375
+                    ],
+                    "center_point": [
+                        238.7198028564453,
+                        429.28594970703125
+                    ],
+                    "area": 98880.56560673192
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 35,
+            "timestamp": 35.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.6686225533485413,
+                    "bbox_xyxy": [
+                        146.95809936523438,
+                        146.2369384765625,
+                        331.36944580078125,
+                        707.7364501953125
+                    ],
+                    "center_point": [
+                        239.1637725830078,
+                        426.9866943359375
+                    ],
+                    "area": 103546.88097895682
+                },
+                {
+                    "label": "zebra",
+                    "confidence": 0.5122841596603394,
+                    "bbox_xyxy": [
+                        572.6236572265625,
+                        468.36444091796875,
+                        978.2283935546875,
+                        594.0485229492188
+                    ],
+                    "center_point": [
+                        775.426025390625,
+                        531.2064819335938
+                    ],
+                    "area": 50978.05895292759
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 36,
+            "timestamp": 36.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.4667574167251587,
+                    "bbox_xyxy": [
+                        150.5728759765625,
+                        146.181396484375,
+                        307.0410461425781,
+                        669.5817260742188
+                    ],
+                    "center_point": [
+                        228.8069610595703,
+                        407.8815612792969
+                    ],
+                    "area": 81895.49183521233
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 37,
+            "timestamp": 37.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.458721399307251,
+                    "bbox_xyxy": [
+                        583.001708984375,
+                        464.53448486328125,
+                        980.064208984375,
+                        569.5936889648438
+                    ],
+                    "center_point": [
+                        781.532958984375,
+                        517.0640869140625
+                    ],
+                    "area": 41715.07022857666
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.40966978669166565,
+                    "bbox_xyxy": [
+                        153.45477294921875,
+                        144.17559814453125,
+                        302.17730712890625,
+                        673.637939453125
+                    ],
+                    "center_point": [
+                        227.8160400390625,
+                        408.9067687988281
+                    ],
+                    "area": 78742.9811521247
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 38,
+            "timestamp": 38.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.3597782254219055,
+                    "bbox_xyxy": [
+                        152.5623779296875,
+                        163.07586669921875,
+                        289.92822265625,
+                        665.5782470703125
+                    ],
+                    "center_point": [
+                        221.24530029296875,
+                        414.3270568847656
+                    ],
+                    "area": 69026.66395678371
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 39,
+            "timestamp": 39.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5929967164993286,
+                    "bbox_xyxy": [
+                        583.5523681640625,
+                        456.58428955078125,
+                        972.7286376953125,
+                        592.0988159179688
+                    ],
+                    "center_point": [
+                        778.1405029296875,
+                        524.341552734375
+                    ],
+                    "area": 52739.03783887625
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 40,
+            "timestamp": 40.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.7214875817298889,
+                    "bbox_xyxy": [
+                        580.0880737304688,
+                        456.4136962890625,
+                        974.7260131835938,
+                        578.1729736328125
+                    ],
+                    "center_point": [
+                        777.4070434570312,
+                        517.2933349609375
+                    ],
+                    "area": 48050.83032023907
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 41,
+            "timestamp": 41.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.3784828782081604,
+                    "bbox_xyxy": [
+                        578.8272705078125,
+                        455.64581298828125,
+                        973.2926025390625,
+                        579.9237670898438
+                    ],
+                    "center_point": [
+                        776.0599365234375,
+                        517.7847900390625
+                    ],
+                    "area": 49023.3444288373
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 42,
+            "timestamp": 42.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5587119460105896,
+                    "bbox_xyxy": [
+                        580.0966796875,
+                        454.718994140625,
+                        968.1334228515625,
+                        579.5697021484375
+                    ],
+                    "center_point": [
+                        774.1150512695312,
+                        517.1443481445312
+                    ],
+                    "area": 48446.6621170789
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 43,
+            "timestamp": 43.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5309281945228577,
+                    "bbox_xyxy": [
+                        585.0686645507812,
+                        452.54058837890625,
+                        968.9308471679688,
+                        581.9102172851562
+                    ],
+                    "center_point": [
+                        776.999755859375,
+                        517.2254028320312
+                    ],
+                    "area": 49660.108116328716
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 44,
+            "timestamp": 44.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5438547134399414,
+                    "bbox_xyxy": [
+                        583.0615234375,
+                        448.4352111816406,
+                        967.301513671875,
+                        575.8116455078125
+                    ],
+                    "center_point": [
+                        775.1815185546875,
+                        512.1234283447266
+                    ],
+                    "area": 48943.11988157779
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 45,
+            "timestamp": 45.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.6086713075637817,
+                    "bbox_xyxy": [
+                        580.68359375,
+                        443.9427490234375,
+                        967.53857421875,
+                        572.6600341796875
+                    ],
+                    "center_point": [
+                        774.111083984375,
+                        508.3013916015625
+                    ],
+                    "area": 49794.92283511162
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 46,
+            "timestamp": 46.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5567349791526794,
+                    "bbox_xyxy": [
+                        578.1982421875,
+                        443.958984375,
+                        968.0704345703125,
+                        574.14892578125
+                    ],
+                    "center_point": [
+                        773.1343383789062,
+                        509.053955078125
+                    ],
+                    "area": 50757.43788224459
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 47,
+            "timestamp": 47.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5242945551872253,
+                    "bbox_xyxy": [
+                        573.7232666015625,
+                        444.86279296875,
+                        967.16845703125,
+                        575.475830078125
+                    ],
+                    "center_point": [
+                        770.4458618164062,
+                        510.1693115234375
+                    ],
+                    "area": 51389.07125809789
+                }
+            ],
+            "frame_url": null
+        }
+    ],
+    "audio_segments": [
+        {
+            "start_time": 0.0,
+            "end_time": 10.0,
+            "label": "NATURAL",
+            "confidence": 0.85
+        }
+    ],
+    "threat_alerts": [],
+    "gan_prediction": {
+        "operation_type": "subsistence",
+        "escalation_pattern": "RAPID_ESCALATION",
+        "risk_assessment": "MEDIUM - Standard monitoring (Moderate confidence: 0.50)",
+        "intervention_points": [],
+        "temporal_evolution": [
+            {
+                "weapon_detector_max_conf": 0.0,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 150.0,
+                "crossmodal_agreement_score": 0.5
+            },
+            {
+                "weapon_detector_max_conf": 0.1,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 130.0,
+                "crossmodal_agreement_score": 0.55
+            },
+            {
+                "weapon_detector_max_conf": 0.22,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 105.0,
+                "crossmodal_agreement_score": 0.6000000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.36,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 75.0,
+                "crossmodal_agreement_score": 0.6500000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.52,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 40.0,
+                "crossmodal_agreement_score": 0.7000000000000002
+            }
+        ],
+        "confidence": 0.504168689250946,
+        "pattern_description": "Survival-driven, limited resources",
+        "recommended_action": "STANDARD MONITORING - Continue observation, assess escalation",
+        "threat_timeline": "5 step progression",
+        "model_version": "Real_Enhanced_GAN_v2.0"
+    },
+    "summary_statistics": {
+        "total_frames_processed": 48,
+        "animal_statistics": {
+            "total_detections": 0,
+            "unique_species": 0,
+            "species_list": [],
+            "avg_confidence": 0.0
+        },
+        "human_statistics": {
+            "total_detections": 22,
+            "frames_with_humans": 21,
+            "avg_confidence": 0.6406143077395179
+        },
+        "audio_statistics": {
+            "total_segments": 1,
+            "threat_segments": 0,
+            "threat_percentage": 0.0
+        }
+    },
+    "processing_time": 4.722337484359741,
+    "frames_processed": 48,
+    "total_frames": 192,
+    "success": true,
+    "errors": []
+}

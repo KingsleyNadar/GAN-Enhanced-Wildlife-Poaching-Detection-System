@@ -1,0 +1,128 @@
+{
+  "request_id": "mock-request-id-overwritten",
+  "timestamp": "mock-timestamp-overwritten",
+  "video_metadata": {
+    "fps": 30.0,
+    "total_frames": 150,
+    "width": 1280,
+    "height": 720,
+    "duration_seconds": 5.0,
+    "file_size_mb": 4.2
+  },
+  "processing_parameters": {
+    "extract_audio": true,
+    "sample_fps": 1,
+    "confidence_threshold": 0.3,
+    "zone_type": "protected",
+    "is_night_time": true,
+    "enable_alerts": true
+  },
+  "phase1_detections": [
+    {
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "detections": [
+        {
+          "label": "Tiger",
+          "confidence": 0.92,
+          "bbox_xyxy": [450, 200, 700, 550],
+          "center_point": [575, 375],
+          "area": 61250
+        }
+      ]
+    }
+  ],
+  "phase2_detections": [
+    {
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox_xyxy": [100, 250, 250, 600],
+          "center_point": [175, 425],
+          "area": 52500
+        },
+        {
+          "label": "gun",
+          "confidence": 0.95,
+          "bbox_xyxy": [120, 350, 200, 400],
+          "center_point": [160, 375],
+          "area": 4000
+        }
+      ]
+    }
+  ],
+  "audio_segments": [],
+  "threat_alerts": [
+    {
+      "id": "alert-mock-weapon",
+      "type": "WEAPON_DETECTED",
+      "level": "CRITICAL",
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "message": "Weapon detected: gun",
+      "confidence": 0.95,
+      "context": {
+        "weapon_types": ["gun"],
+        "weapon_count": 1
+      }
+    },
+    {
+      "id": "alert-mock-proximity",
+      "type": "HUMAN_ANIMAL_PROXIMITY",
+      "level": "HIGH",
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "message": "Human detected near 1 animals",
+      "confidence": 0.88,
+      "context": {
+        "animals": ["rhino"],
+        "human_count": 1,
+        "zone_type": "protected",
+        "is_night": true
+      }
+    },
+    {
+      "id": "alert-mock-proximity",
+      "type": "Gunshot Detected",
+      "level": "HIGH",
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "message": "Gunshot detected near 1 animals",
+      "confidence": 0.88,
+      "context": {
+        "animals": ["rhino"],
+        "human_count": 1,
+        "zone_type": "protected",
+        "is_night": true
+      }
+    }
+  ],
+  "gan_prediction": {
+    "operation_type": "professional",
+    "escalation_pattern": "RAPID_ESCALATION",
+    "risk_assessment": "CRITICAL - Coordinated poaching activity with firearms detected.",
+    "intervention_points": [
+      {"point": "IMMEDIATE", "action": "Dispatch rapid response unit (RRU)"}
+    ],
+    "temporal_evolution": [],
+    "confidence": 0.98,
+    "pattern_description": "Night-time detection of human with weapon near high-value species (rhino).",
+    "recommended_action": "IMMEDIATE DISPATCH",
+    "threat_timeline": "Imminent threat",
+    "model_version": "Enhanced_Logical_GAN_v2.0"
+  },
+  "summary_statistics": {
+    "total_frames_processed": 5,
+    "animal_statistics": {"total_detections": 1, "unique_species": 1, "species_list": ["rhino"]},
+    "human_statistics": {"total_detections": 1, "frames_with_humans": 1},
+    "audio_statistics": {"total_segments": 0, "threat_segments": 0}
+  },
+  "processing_time": 0.05,
+  "frames_processed": 5,
+  "total_frames": 150,
+  "success": true,
+  "errors": []
+}

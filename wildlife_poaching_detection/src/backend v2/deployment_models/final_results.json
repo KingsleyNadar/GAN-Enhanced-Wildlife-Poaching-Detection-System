@@ -1,0 +1,19 @@
+{
+  "system_type": "Enhanced GAN with Logical Scenarios",
+  "baseline_accuracy": 0.423,
+  "enhanced_accuracy": 0.583,
+  "improvement_percent": 37.82505910165484,
+  "total_scenarios": 500,
+  "scenario_types": {
+    "escalation": 150,
+    "environmental_change": 121,
+    "false_alarm": 118,
+    "new_threat": 111
+  },
+  "alert_distribution": {
+    "HIGH": 195,
+    "LOW": 179,
+    "MEDIUM": 126
+  },
+  "timestamp": "2025-11-07"
+}

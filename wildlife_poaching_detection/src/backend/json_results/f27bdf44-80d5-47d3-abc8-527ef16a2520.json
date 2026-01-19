@@ -1,0 +1,373 @@
+{
+    "request_id": "f27bdf44-80d5-47d3-abc8-527ef16a2520",
+    "timestamp": "2025-11-08T12:40:05.453014",
+    "video_metadata": {
+        "fps": 24.0,
+        "total_frames": 192,
+        "width": 1280,
+        "height": 720,
+        "duration_seconds": 8.0,
+        "file_size_mb": 1.9801311492919922
+    },
+    "processing_parameters": {
+        "extract_audio": true,
+        "sample_fps": 1,
+        "confidence_threshold": 0.3,
+        "zone_type": "unknown",
+        "is_night_time": false,
+        "enable_alerts": true
+    },
+    "phase1_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [],
+            "frame_url": null
+        }
+    ],
+    "phase2_detections": [
+        {
+            "frame_index": 0,
+            "timestamp": 0.0,
+            "detections": [],
+            "frame_url": null
+        },
+        {
+            "frame_index": 1,
+            "timestamp": 1.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.7693585157394409,
+                    "bbox_xyxy": [
+                        894.732177734375,
+                        351.8194580078125,
+                        1067.51904296875,
+                        489.672607421875
+                    ],
+                    "center_point": [
+                        981.1256103515625,
+                        420.74603271484375
+                    ],
+                    "area": 23819.21354994178
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 2,
+            "timestamp": 2.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8681797385215759,
+                    "bbox_xyxy": [
+                        824.589599609375,
+                        353.828857421875,
+                        1024.045166015625,
+                        538.6011352539062
+                    ],
+                    "center_point": [
+                        924.3173828125,
+                        446.2149963378906
+                    ],
+                    "area": 36853.859331160784
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 3,
+            "timestamp": 3.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.8716883063316345,
+                    "bbox_xyxy": [
+                        781.8133544921875,
+                        362.594970703125,
+                        969.83642578125,
+                        579.4970092773438
+                    ],
+                    "center_point": [
+                        875.8248901367188,
+                        471.0459899902344
+                    ],
+                    "area": 40782.587461583316
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.5786088705062866,
+                    "bbox_xyxy": [
+                        142.5657501220703,
+                        231.2153778076172,
+                        378.95587158203125,
+                        621.9885864257812
+                    ],
+                    "center_point": [
+                        260.7608108520508,
+                        426.6019821166992
+                    ],
+                    "area": 92374.92624854646
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 4,
+            "timestamp": 4.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.6307129263877869,
+                    "bbox_xyxy": [
+                        741.1773071289062,
+                        369.7025146484375,
+                        917.8989868164062,
+                        598.390380859375
+                    ],
+                    "center_point": [
+                        829.5381469726562,
+                        484.04644775390625
+                    ],
+                    "area": 40414.10384094715
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.4138926863670349,
+                    "bbox_xyxy": [
+                        161.8048095703125,
+                        241.564208984375,
+                        436.26019287109375,
+                        620.6407470703125
+                    ],
+                    "center_point": [
+                        299.0325012207031,
+                        431.10247802734375
+                    ],
+                    "area": 104039.59656070918
+                },
+                {
+                    "label": "frisbee",
+                    "confidence": 0.36916476488113403,
+                    "bbox_xyxy": [
+                        450.02008056640625,
+                        288.09564208984375,
+                        593.8798217773438,
+                        399.25494384765625
+                    ],
+                    "center_point": [
+                        521.949951171875,
+                        343.67529296875
+                    ],
+                    "area": 15991.348384067416
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 5,
+            "timestamp": 5.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.8317641019821167,
+                    "bbox_xyxy": [
+                        151.361572265625,
+                        161.31488037109375,
+                        385.55499267578125,
+                        708.318603515625
+                    ],
+                    "center_point": [
+                        268.4582824707031,
+                        434.8167419433594
+                    ],
+                    "area": 128104.67290030792
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 6,
+            "timestamp": 6.0,
+            "detections": [
+                {
+                    "label": "person",
+                    "confidence": 0.4667574167251587,
+                    "bbox_xyxy": [
+                        150.5728759765625,
+                        146.181396484375,
+                        307.0410461425781,
+                        669.5817260742188
+                    ],
+                    "center_point": [
+                        228.8069610595703,
+                        407.8815612792969
+                    ],
+                    "area": 81895.49183521233
+                }
+            ],
+            "frame_url": null
+        },
+        {
+            "frame_index": 7,
+            "timestamp": 7.0,
+            "detections": [
+                {
+                    "label": "zebra",
+                    "confidence": 0.5587119460105896,
+                    "bbox_xyxy": [
+                        580.0966796875,
+                        454.718994140625,
+                        968.1334228515625,
+                        579.5697021484375
+                    ],
+                    "center_point": [
+                        774.1150512695312,
+                        517.1443481445312
+                    ],
+                    "area": 48446.6621170789
+                }
+            ],
+            "frame_url": null
+        }
+    ],
+    "audio_segments": [
+        {
+            "start_time": 0.0,
+            "end_time": 10.0,
+            "label": "NATURAL",
+            "confidence": 0.85
+        }
+    ],
+    "threat_alerts": [],
+    "gan_prediction": {
+        "operation_type": "subsistence",
+        "escalation_pattern": "RAPID_ESCALATION",
+        "risk_assessment": "MEDIUM - Standard monitoring (Moderate confidence: 0.50)",
+        "intervention_points": [],
+        "temporal_evolution": [
+            {
+                "weapon_detector_max_conf": 0.0,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 150.0,
+                "crossmodal_agreement_score": 0.5
+            },
+            {
+                "weapon_detector_max_conf": 0.1,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 130.0,
+                "crossmodal_agreement_score": 0.55
+            },
+            {
+                "weapon_detector_max_conf": 0.22,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 105.0,
+                "crossmodal_agreement_score": 0.6000000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.36,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 75.0,
+                "crossmodal_agreement_score": 0.6500000000000001
+            },
+            {
+                "weapon_detector_max_conf": 0.52,
+                "alert_level": "MEDIUM",
+                "time_of_day": "day",
+                "zone": "unknown",
+                "yolo_person_conf_max": 0.0,
+                "audio_label": "NATURAL",
+                "distance_estimate_m": 40.0,
+                "crossmodal_agreement_score": 0.7000000000000002
+            }
+        ],
+        "confidence": 0.504168689250946,
+        "pattern_description": "Survival-driven, limited resources",
+        "recommended_action": "STANDARD MONITORING - Continue observation, assess escalation",
+        "threat_timeline": "5 step progression",
+        "model_version": "Real_Enhanced_GAN_v2.0"
+    },
+    "summary_statistics": {
+        "total_frames_processed": 8,
+        "animal_statistics": {
+            "total_detections": 0,
+            "unique_species": 0,
+            "species_list": [],
+            "avg_confidence": 0.0
+        },
+        "human_statistics": {
+            "total_detections": 4,
+            "frames_with_humans": 4,
+            "avg_confidence": 0.5727557688951492
+        },
+        "audio_statistics": {
+            "total_segments": 1,
+            "threat_segments": 0,
+            "threat_percentage": 0.0
+        }
+    },
+    "processing_time": 1.332834005355835,
+    "frames_processed": 8,
+    "total_frames": 192,
+    "success": true,
+    "errors": []
+}

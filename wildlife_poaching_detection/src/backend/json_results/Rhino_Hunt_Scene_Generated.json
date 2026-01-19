@@ -1,0 +1,83 @@
+{
+  "request_id": "mock-request-id-overwritten",
+  "timestamp": "mock-timestamp-overwritten",
+  "video_metadata": {
+    "fps": 30.0,
+    "total_frames": 300,
+    "width": 1920,
+    "height": 1080,
+    "duration_seconds": 10.0,
+    "file_size_mb": 8.1
+  },
+  "processing_parameters": {
+    "extract_audio": true,
+    "sample_fps": 1,
+    "confidence_threshold": 0.3,
+    "zone_type": "restricted",
+    "is_night_time": false,
+    "enable_alerts": true
+  },
+  "phase1_detections": [
+    {
+      "frame_index": 2,
+      "timestamp": 2.0,
+      "detections": [
+        {
+          "label": "Rhino",
+          "confidence": 0.92,
+          "bbox_xyxy": [450, 200, 700, 550],
+          "center_point": [575, 375],
+          "area": 61250
+        }
+      ]
+    }
+  ],
+  "phase2_detections": [],
+  "audio_segments": [
+    {
+      "start_time": 0.0,
+      "end_time": 10.0,
+      "label": "POACHING_THREAT",
+      "confidence": 0.82
+    }
+  ],
+  "threat_alerts": [
+    {
+      "id": "alert-mock-audio",
+      "type": "AUDIO_THREAT",
+      "level": "HIGH",
+      "timestamp": 0.0,
+      "message": "Poaching-related audio detected",
+      "confidence": 0.82,
+      "context": {
+        "audio_duration": 10.0,
+        "audio_type": "POACHING_THREAT"
+      }
+    }
+  ],
+  "gan_prediction": {
+    "operation_type": "opportunistic",
+    "escalation_pattern": "MODERATE_ESCALATION",
+    "risk_assessment": "HIGH - Audio indicators of poaching (e.g., muffled voices, traps) detected.",
+    "intervention_points": [
+      {"point": "SURVEILLANCE", "action": "Deploy drone for visual confirmation"}
+    ],
+    "temporal_evolution": [],
+    "confidence": 0.75,
+    "pattern_description": "Audio threat detected with no visual confirmation.",
+    "recommended_action": "ENHANCED MONITORING / DRONE DEPLOYMENT",
+    "threat_timeline": "Potential threat development",
+    "model_version": "Enhanced_Logical_GAN_v2.0"
+  },
+  "summary_statistics": {
+    "total_frames_processed": 10,
+    "animal_statistics": {"total_detections": 0, "unique_species": 0, "species_list": []},
+    "human_statistics": {"total_detections": 0, "frames_with_humans": 0},
+    "audio_statistics": {"total_segments": 1, "threat_segments": 1, "threat_percentage": 100.0}
+  },
+  "processing_time": 0.03,
+  "frames_processed": 10,
+  "total_frames": 300,
+  "success": true,
+  "errors": []
+}

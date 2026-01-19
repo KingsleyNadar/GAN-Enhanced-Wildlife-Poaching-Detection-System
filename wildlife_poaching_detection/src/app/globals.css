@@ -1,0 +1,13 @@
+/* globals.css */
+
+@import "tailwindcss";
+
+/* All other styles have been removed. 
+  
+  Your `layout.js` already applies the Inter font and the 
+  correct light/dark background and text colors to the <body> 
+  tag using Tailwind utility classes.
+  
+  This file only needs to import Tailwind to get started.
+*/
+

@@ -1,0 +1,31 @@
+{
+    "request_id": "e4860975-c616-43d9-aaaa-a62e03f4cf17",
+    "timestamp": "2025-11-09T02:57:02.677616",
+    "video_metadata": {
+        "fps": 30.0,
+        "total_frames": 100,
+        "width": 1920,
+        "height": 1080,
+        "duration_seconds": 3.3,
+        "file_size_mb": 5.0
+    },
+    "processing_parameters": {
+        "extract_audio": true,
+        "sample_fps": 5,
+        "confidence_threshold": 0.3,
+        "zone_type": "unknown",
+        "is_night_time": false,
+        "enable_alerts": true
+    },
+    "phase1_detections": [],
+    "phase2_detections": [],
+    "audio_segments": [],
+    "threat_alerts": [],
+    "gan_prediction": null,
+    "summary_statistics": {},
+    "processing_time": 0.0,
+    "frames_processed": 10,
+    "total_frames": 100,
+    "success": true,
+    "errors": []
+}

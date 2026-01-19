@@ -1,0 +1,59 @@
+{
+  "ensemble_type": "custom_cnn_specialized_detectors",
+  "description": "Ensemble of 6 specialized custom CNN animal detectors using voting mechanism",
+  "architecture": "CustomAnimalCNN",
+  "num_models": 6,
+  "classes": [
+    "human",
+    "elephant",
+    "lion",
+    "hippo",
+    "rhino",
+    "crocodile"
+  ],
+  "models": {
+    "human": {
+      "class_id": 0,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/human_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.93
+    },
+    "elephant": {
+      "class_id": 1,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/elephant_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.93
+    },
+    "lion": {
+      "class_id": 2,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/lion_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.93
+    },
+    "hippo": {
+      "class_id": 3,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/hippo_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.93
+    },
+    "rhino": {
+      "class_id": 4,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/rhino_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.93
+    },
+    "crocodile": {
+      "class_id": 5,
+      "model_path": "/Users/nishchalnaithani/Desktop/venv/new_capstone/deployment_models/phase1/crocodile_stage1.pt",
+      "type": "1-stage (clear only)",
+      "file_size_mb": 10.94
+    }
+  },
+  "prediction_strategy": "ensemble_voting",
+  "nms_threshold": 0.45,
+  "conf_threshold": 0.25,
+  "image_size": 416,
+  "device": "mps",
+  "created_date": "2025-10-18T02:12:36.552147",
+  "total_size_mb": 65.6
+}
